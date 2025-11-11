@@ -20,5 +20,6 @@ public class Practice {
 	 System.out.println(driver.getTitle());
 	 Thread.sleep(5000);
 	 driver.quit();
+	 System.out.println("Changes for github practice");
  }
 }
